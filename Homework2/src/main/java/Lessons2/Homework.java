@@ -47,6 +47,4 @@ public class Homework {
             return true;
         }
     }
-
-
 }

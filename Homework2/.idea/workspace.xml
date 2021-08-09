@@ -40,7 +40,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Homework5">
+  <component name="RunManager" selected="Application.Lessons6">
+    <configuration name="Animal" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lessons6.Animal" />
+      <module name="Java1level" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GameApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lessons4.GameApp" />
       <module name="Java1level" />
@@ -100,15 +107,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lessons6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons6.Lessons6" />
+      <module name="Java 1 уровень" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Animal" />
       <item itemvalue="Application.GameApp" />
       <item itemvalue="Application.HomeWorkApp" />
       <item itemvalue="Application.Homework" />
       <item itemvalue="Application.Homework3" />
       <item itemvalue="Application.Homework5" />
+      <item itemvalue="Application.Lessons6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lessons6" />
         <item itemvalue="Application.Homework5" />
         <item itemvalue="Application.Homework3" />
         <item itemvalue="Application.Homework" />

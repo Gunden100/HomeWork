@@ -45,7 +45,7 @@
       <recent name="C:\Users\The Machine\Джава\Java 1 уровень\src\main\java\Lessons7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lessons6 (1)">
+  <component name="RunManager" selected="Application.Homework8">
     <configuration name="Animal" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lessons6.Animal" />
       <module name="Java1level" />
@@ -73,19 +73,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons2.Homework" />
-      <module name="Java1level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lessons2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lessons3.Homework3" />
       <module name="Java1level" />
@@ -105,6 +92,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lessons5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons8.Homework8" />
+      <module name="Java 1 уровень" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +142,19 @@
       <item itemvalue="Application.Animal" />
       <item itemvalue="Application.GameApp" />
       <item itemvalue="Application.HomeWorkApp" />
-      <item itemvalue="Application.Homework" />
       <item itemvalue="Application.Homework3" />
       <item itemvalue="Application.Homework5" />
       <item itemvalue="Application.Lessons6" />
       <item itemvalue="Application.Lessons6 (1)" />
+      <item itemvalue="Application.Homework8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework8" />
         <item itemvalue="Application.Lessons6 (1)" />
         <item itemvalue="Application.Lessons6" />
         <item itemvalue="Application.Homework5" />
         <item itemvalue="Application.Homework3" />
-        <item itemvalue="Application.Homework" />
       </list>
     </recent_temporary>
   </component>

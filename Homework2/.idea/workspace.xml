@@ -37,10 +37,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Lessons7" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Homework5">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\The Machine\Джава\Java 1 уровень\src\main\java\Lessons7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Homework8">
+    <configuration name="Animal" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lessons6.Animal" />
+      <module name="Java1level" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GameApp" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lessons4.GameApp" />
       <module name="Java1level" />
@@ -54,19 +66,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lessons1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons2.Homework" />
-      <module name="Java1level" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lessons2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,18 +99,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Homework8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons8.Homework8" />
+      <module name="Java 1 уровень" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lessons6 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons7.Lessons6" />
+      <module name="Java 1 уровень" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lessons6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons6.Lessons6" />
+      <module name="Java 1 уровень" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Animal" />
       <item itemvalue="Application.GameApp" />
       <item itemvalue="Application.HomeWorkApp" />
-      <item itemvalue="Application.Homework" />
       <item itemvalue="Application.Homework3" />
       <item itemvalue="Application.Homework5" />
+      <item itemvalue="Application.Lessons6" />
+      <item itemvalue="Application.Lessons6 (1)" />
+      <item itemvalue="Application.Homework8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework8" />
+        <item itemvalue="Application.Lessons6 (1)" />
+        <item itemvalue="Application.Lessons6" />
         <item itemvalue="Application.Homework5" />
         <item itemvalue="Application.Homework3" />
-        <item itemvalue="Application.Homework" />
       </list>
     </recent_temporary>
   </component>
